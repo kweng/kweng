@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm working on fish reproductive biology, learning some R, and trying to get some help from copilot.
 
 <!--
 **kweng/kweng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
